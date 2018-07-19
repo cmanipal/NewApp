@@ -1,1 +1,1 @@
-# NewApp
+Test application
