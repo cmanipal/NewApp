@@ -1,1 +1,1 @@
-Test application
+[![Build Status](https://dev.azure.com/shaikkhadar9/Automation%20Demo/_apis/build/status/cmanipal.NewApp?branchName=master)](https://dev.azure.com/shaikkhadar9/Automation%20Demo/_build/latest?definitionId=1&branchName=master)
